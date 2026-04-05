@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delayedsank
-- 👀 I’m interested in C/C++,VLSI,Photonics
-- 🌱 I’m currently learning Embedded Software Programming
+- 👀 I’m interested in C/C++,ML,Photonics
+- 🌱 I’m currently ML and AI systems for resource constraint systems
 - 💞️ I’m looking to collaborate on various embedded projects and development 
 - 📫 How to reach me sanket.rao@icloud.com
 
