@@ -16,17 +16,12 @@ I bring two years of professional experience in embedded software and product de
 
 ## Professional Projects (2023–2025)
 
-- **Project A** — Link to be added.
-- **Project B** — Link to be added.
-
 ## Machine Learning & Sensor Systems (Master's)
 
 - [**Occupancy detection**](https://github.com/delayedsank/occupancy-detection-ml-pipeline) — Cleaning sensor data and applying machine learning to predict whether a room is occupied.
 - [**Vehicle classification**](https://github.com/delayedsank/vehicle-classification-ml) — Comparing machine learning models to identify vehicle types from shape features.
 
 ## Personal Systems & Experiments
-
-- **Smaller exercises collection** — Link to be added.
 
 ---
 
