@@ -20,6 +20,9 @@ Through my R&D experience, I have worked with embedded systems involving wireles
 
 ## Professional Projects During Employement (2023–2025)
 
+- [**[2025] Robotic Rapid Disease Device**](https://github.com/delayedsank/robotic_rapid_testing_module) — Rapid Disease Testing device controlled thru commands, consisting high power ac control , to be stationed at airports arrival gate .
+
+
 ## Machine Learning & Sensor Systems (Master's)(UNDER CONSTRUCTION )
 
 - [**Occupancy detection**](https://github.com/delayedsank/occupancy-detection-ml-pipeline) — Cleaning sensor data and applying machine learning to predict whether a room is occupied.
