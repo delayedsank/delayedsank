@@ -1,20 +1,24 @@
 # Hi, I'm Sanket Rao
 
-**Embedded Software Engineer · Sensor Systems · Machine Learning**
+**Systems/R&D Engineer · Sensor Systems · Machine Learning · EdgeAI **
 
 ## About me
 
-I'm in the second year of my master's in **Machine Learning, Sensors & Systems at Blekinge Institute of Technology (BTH), Sweden**, building toward intelligent devices that sense, learn, and act.
+I am a ex-systems engineer/ forskning och utveckling (FoU) with a background in embedded systems development and industrial research and development (R&D). I specialize in low-level programming, communication protocols, supervised learning based calibration and sensor-based systems .
 
-**Interests:** Embedded artificial intelligence (AI), edge computing, robotics, and systems engineering.
+Currently in the second year of my master's in **Machine Learning, Sensors & Systems at Blekinge Institute of Technology (BTH), Sweden**, building toward intelligent devices that sense, learn, and act.
+
+My current tech stack and interests include C/C++, x86 and ARM assembly, Linux Internals, RTOS, BLE, TCP/IP, UDP, ML(DL/CV)(Building) and FOTA, as well as hardware-software integration. I started using Github in year 2025 and I update it when I get time.
+
+**Interests:** Embedded artificial intelligence (AI) / EDGE AI, edge computing, robotics(DL/CV), and systems engineering.
 
 **Based in Sweden · Open to full-time opportunities**
 
 ## Professional background
 
-I bring two years of professional experience in embedded software and product development, working across software, electronics, and sensor systems.
+Through my R&D experience, I have worked with embedded systems involving wireless communication, sensor technology, calibration(where my research failed and that's why I am pursuing masters now), and firmware development. I have a particular interest in computer architecture, operating systems, real-time systems, and the intersection of embedded engineering and machine learning.
 
-## Professional Projects (2023–2025)
+## Professional Projects During Employement (2023–2025)
 
 ## Machine Learning & Sensor Systems (Master's)
 
