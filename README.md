@@ -20,7 +20,7 @@ Through my R&D experience, I have worked with embedded systems involving wireles
 
 ## Professional Projects During Employement (2023–2025)
 
-## Machine Learning & Sensor Systems (Master's)
+## Machine Learning & Sensor Systems (Master's)(UNDER CONSTRUCTION )
 
 - [**Occupancy detection**](https://github.com/delayedsank/occupancy-detection-ml-pipeline) — Cleaning sensor data and applying machine learning to predict whether a room is occupied.
 - [**Vehicle classification**](https://github.com/delayedsank/vehicle-classification-ml) — Comparing machine learning models to identify vehicle types from shape features.
