@@ -25,6 +25,9 @@ Through my R&D experience, I have worked with embedded systems involving wireles
 
 - [**[2024] PROTYPING STUDIES FOR WIREPASS SYSTEM FOR WAREHOUSES **](https://github.com/delayedsank/SHIPYARD_CONTAINER_TRACKING_BEACON_STUDIES) — Studies on Observer / Beacon mode on nordic semi nrf52830 
 
+- [**[2024] Electronic Shelf Label system based PaWR**](https://github.com/delayedsank/Electronic_Label_System_PaWR_BLE5.4) — PawR (Periodic Advertisement with Response) is BLE5.4 feature that allowed shopping malls to drug delivery system around world function in lowest power possible to control large groups of peripherals from central command .
+
+
 ## Machine Learning & Sensor Systems (Master's)(UNDER CONSTRUCTION )
 
 - [**Occupancy detection**](https://github.com/delayedsank/occupancy-detection-ml-pipeline) — Cleaning sensor data and applying machine learning to predict whether a room is occupied.
