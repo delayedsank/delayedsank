@@ -8,7 +8,7 @@ I am a ex-systems engineer/ forskning och utveckling (FoU) with a background in 
 
 Currently in the second year of my master's in **Machine Learning, Sensors & Systems at Blekinge Institute of Technology (BTH), Sweden**, building toward intelligent devices that sense, learn, and act.
 
-My current tech stack and interests include C/C++, x86 and ARM assembly, Linux Internals, RTOS, BLE, TCP/IP, UDP, ML(DL/CV)(Building) and FOTA, as well as hardware-software integration. I started using Github in year 2025 and I update it when I get time.
+My current tech stack and interests include C/C++, ARM assembly, Linux Internals, RTOS, BLE,SPI/i2C/UART/NVMC/NAND Flashes ,TCP/IP, UDP, ML(DL/CV)(Building) and FOTA, as well as hardware-software integration based hardware prototyping. I started using Github in year 2025 and I update it when I get time.
 
 **Interests:** Embedded artificial intelligence (AI) / EDGE AI, edge computing, robotics(DL/CV), and systems engineering.
 
