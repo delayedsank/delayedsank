@@ -2,7 +2,7 @@
 
 **Systems/R&D Engineer · Sensor Systems · Machine Learning · EdgeAI **
 
-[DISCLAIMER] Engineers in such domain are prone to NDA / IP protected lawsuits , So actual projects can never be uploaded on Github, instead visual or basic reports been uploaded. 
+[DISCLAIMER] Engineers in such domain are prone to NDA / IP protected lawsuits , So actual projects can never be uploaded on Github, instead visual or basic sanitized reports/code snippets been uploaded .
 
 ## About me
 
