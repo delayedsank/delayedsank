@@ -10,13 +10,13 @@ Currently in the second year of my master's in **Machine Learning, Sensors & Sys
 
 My current tech stack and interests include C/C++, ARM assembly, Linux Internals, RTOS, BLE,SPI/i2C/UART/NVMC/NAND Flashes ,TCP/IP, UDP, ML(DL/CV)(Building) and FOTA, as well as hardware-software integration based hardware prototyping. I started using Github in year 2025 and I update it when I get time.
 
-**Interests:** Embedded artificial intelligence (AI) / EDGE AI, edge computing, robotics(DL/CV), and systems engineering.
+**Interests:** Embedded ML Systems / EDGE AI, On-chip/edge computing, Space Systems, Ballistics ,robotics(DL/CV), and systems engineering.
 
 **Based in Sweden · Open to full-time opportunities**
 
 ## Professional background
 
-Through my R&D experience, I have worked with embedded systems involving wireless communication, sensor technology, calibration(where my research failed and that's why I am pursuing masters now), and firmware development. I have a particular interest in computer architecture, operating systems, real-time systems, and the intersection of embedded engineering and machine learning.
+Through my R&D experience, I have worked with embedded systems involving wireless communication, sensor technology, calibration(where my research failed due to non linearity and that's why I am pursuing masters now), and firmware development. I have a particular interest in computer architecture, operating systems, real-time systems, and the intersection of embedded engineering and machine learning.
 
 ## Professional Projects During Employement (2023–2025)
 
