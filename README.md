@@ -39,6 +39,8 @@ Through my R&D experience, I have worked with embedded systems involving wireles
 
 ## Personal Systems & Experiments
 
+- [**Carino_v2.1**](https://github.com/delayedsank/carino_Weather_station-Under-Construction-) — ML based personal weather station with multiple sensors collecting real time data 24/7 ,which is used to study different machine learning concepts I studied at my university.
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/sanket-rao-49b50b153/) · [Email](mailto:sankonfam@gmail.com)
