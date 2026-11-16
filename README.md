@@ -2,7 +2,7 @@
 
 **Systems/R&D Engineer · Sensor Systems · Machine Learning · EdgeAI **
 
-[DISCLAIMER] Engineers in such domain are prone to NDA / IP protected lawsuits , So actual projects can never be uploaded on Github, instead visual or basic sanitized reports/code snippets been uploaded .
+
 
 ## About me
 
@@ -16,9 +16,7 @@ My current tech stack and interests include C/C++, ARM assembly, Linux Internals
 
 **Based in Sweden · Open to full-time opportunities**
 
-## Professional background
 
-Through my R&D experience, I have worked with embedded systems involving wireless communication, sensor technology, calibration(where my research failed due to non linearity and that's why I am pursuing masters now), and firmware development. I have a particular interest in computer architecture, operating systems, real-time systems, and the intersection of embedded engineering and machine learning.
 
 ## Professional Projects During Employement (2023–2025)
 
